@@ -18,7 +18,7 @@ The tasks were as follows.
 The analysis of the election shows:
 - There were 369,711 total votes cast in this election.
 - The county results were:
-  - 
+  - ![County Data](https://github.com/Nuh-Khan/Election_Analysis/blob/e52c5e3d5927bc80d35bd364e75f39cce652d5f4/Resources/County%20data.png)
   - Denver county had the largest number of votes as seen above.
 - The candidates were the following:
   - Charles Casper Stockham
@@ -31,4 +31,9 @@ The analysis of the election shows:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
   
+  
+  ![Candidate Data](https://github.com/Nuh-Khan/Election_Analysis/blob/5e8f12cf4deaf49abcbe8ab19e3ce32ed700a97e/Resources/Candidate_data.png)
   ## Election-Audit Summary
+  This script can be easily modified to assist in looking at any type of election data.
+  If we added a list of states instead of countys and altered the dictionary for state votes instead of county votes we could use this script to analyze   a general election for the entire country.
+  This script could also look at local elections again by altering the lists and dictionarys within the script. Assuming you have the data to pull from this script could apply to any kind of election.
